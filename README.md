@@ -1,5 +1,6 @@
 # Summify
-Summify is an AI-powered website that generates summaries for web pages. With Summify, you can quickly and easily get a concise summary of any article or webpage, making it easier to get the information you need without having to read the entire article.
+Summify is an AI-powered website that generates summaries for web pages. With Summify, you can quickly and easily get a concise summary of any article or webpage, making it easier to get the information you need without having to read the entire article.</br>
+Live: https://summify.aswinkrishna.com/
 
 ## Features
 <ul>
